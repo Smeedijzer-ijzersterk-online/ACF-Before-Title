@@ -1,6 +1,6 @@
 {
   "name": "Smeedijzer-ijzersterk-online/ACF-Before-Title",
-  "description": "ACF Before Title : Adds a choice \"High (before title) to ACF field groups position drop-down\"",
+  "description": "ACF Before Title : Adds a choice: High (before title) to ACF field groups position drop-down",
   "keywords": ["wordpress", "ACF", "Before Title", "group position", "choice"],
   "homepage": "https://github.com/Smeedijzer-ijzersterk-online/ACF-Before-Title",
   "license": "MIT",
@@ -8,7 +8,7 @@
     {
       "name": "Smeedijzer-ijzersterk-online",
       "email": ""
-		}
+	}
   ],
   "require": {
     "php": ">=5.6"
