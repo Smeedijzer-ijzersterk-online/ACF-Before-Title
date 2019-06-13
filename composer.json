@@ -14,6 +14,6 @@
     "php": ">=5.6"
   },
 	"autoload": {
-    "files": ["acf-add-group-field-position-before-title.php	"]
+    "files": ["acf-add-group-field-position-before-title.php"]
   }
 }
