@@ -4,6 +4,7 @@
   "keywords": ["wordpress", "ACF", "Before Title", "group position", "choice"],
   "homepage": "https://github.com/Smeedijzer-ijzersterk-online/ACF-Before-Title",
   "license": "MIT",
+  "type": "wordpress-plugin",
   "authors": [
     {
       "name": "Smeedijzer-ijzersterk-online",
